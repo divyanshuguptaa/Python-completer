@@ -30,9 +30,7 @@ We can limit them to finish on end of tokens to fix that.
 Also you can notice that it completes across operators as well.
 Increasing the length of the beam search will let it complete longer pieces of code.
 
-<p align="center">
-  <img src="/python-autocomplete.png?raw=true" width="100%" title="Screenshot">
-</p>
+
 
 ## Try it yourself
 
