@@ -30,6 +30,7 @@ We can limit them to finish on end of tokens to fix that.
 Also you can notice that it completes across operators as well.
 Increasing the length of the beam search will let it complete longer pieces of code.
 
+![WhatsApp Image 2023-08-26 at 6 28 03 PM](https://github.com/divyanshuguptaa/Python-completer/assets/141594416/4f45ece7-2061-4591-ac52-13310c2c58ca)
 
 
 ## Try it yourself
